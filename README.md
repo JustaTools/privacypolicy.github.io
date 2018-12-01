@@ -2,7 +2,7 @@ Privacy Policy
 
 
 Developer built the The Ball app as an Ad Supported app. This 
-app is provided by at no cost and is intended for use as is:
+app is provided by at no cost and is intended for use as is.
   
 
 This privacy policy is used to inform you regarding policies with the collection, use, and 
