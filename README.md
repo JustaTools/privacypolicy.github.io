@@ -1,2 +1,136 @@
-This privacy policy governs your use of the software application The Ball (“Application”) for mobile devices that was created by Just a’Tool. The Application uses augmented reality mechanism, so it needs your permission for using camera. The Application uses data from your camera only for real-time processing and calculation of The Ball coordinates. The Application does not save video or image data from camera. The Application “Built with Firebase”.  The Application has Google Analytics for Firebase. The Application has Google AdMob service. We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application free. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device and your mobile telephone number. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can’t identify you personally. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere. We may also share encrypted versions of information you have provided in order to enable our partners to append other available information about you for analysis or advertising related use.  We do not use the Application to knowingly solicit data from or market to children under the age of 13. We are concerned about safeguarding the confidentiality of your information. This Privacy Policy may be updated from time to time for any reason.You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+Privacy Policy
+
+
+Developer built the The Ball app as an Ad Supported app. This 
+app is provided by at no cost and is intended for use as is:
+  
+
+This privacy policy is used to inform you regarding policies with the collection, use, and 
+disclosure of Personal Information if anyone decided to use this Service.
+
+
+1. Overview
+
+The Application uses augmented reality mechanism, so it needs your permission for using camera. 
+The Application uses data from your camera only for real-time processing and calculation of 
+The Ball coordinates. The Application does not save video or image data from camera.
+The app uses advertising (and in app payments) to make revenue. The app uses third party
+libraries for advertising which may collect and share personal information with third
+parties.
+
+Links to privacy policies of third party service providers used in the app
+
+Google Play Services    https://www.google.com/policies/privacy/
+AdMob                   https://support.google.com/admob/answer/6128543
+
+
+2.) Sharing Your Information
+
+The developer will share personal information with third parties only in the ways that are 
+described in this privacy statement.
+
+Your personal information may be disclosed:
+* As required by law, such as to comply with a subpoena, or similar legal process.
+* To any other third party with your prior consent to do so.
+
+
+3. What information are collected and why
+
+3.1 AdMob
+
+AdMob, is Google's mobile app advertising platform designed specifically for app
+developers. In order to understand Google's use of Data, consult Google's partner policy.
+
+Personal Data:
+* Online identifiers, including cookie identifiers
+* IP addresses
+* Device identifiers
+* Client identifiers 
+* unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
+* Usage Data.
+
+Retention:
+Google anonymizes the log data by removing part of the IP address (after 9 months) and 
+cookie information (after 18 months)
+
+Online resources:
+* Privacy Policy                https://www.google.com/policies/technologies/ads/
+* Opt out                       https://www.google.com/settings/ads
+* Service Information           https://privacy.google.com/businesses/adsservices/
+* Partner policy                https://policies.google.com/technologies/partner-sites
+* Ad technology providers       https://support.google.com/admob/answer/9012903
+
+
+3.2 Google Play Services
+
+Google Play Services offers APIs and security services to the Android developer ecosystem.
+Google acts as a data controller for any personal data processed in Google Play Services,
+and offers user notices and consents about the use of personal data in the service’s user
+interface in Android.
+
+Collected informations:
+* Device information
+* Log information
+* Location information
+* Unique application numbers
+* Local storage
+* Cookies and similar technologies
+
+Google use the collected information to provide, maintain, protect and improve Google's
+services, to develop new ones, and to protect Google and the users. Google also use this
+information to offer you tailored content – like giving you more relevant search results
+and ads.
+
+Online resources:
+* Google Terms of Service      https://policies.google.com/terms
+* Google Privacy Policy        https://policies.google.com/privacy
+
+
+4. Security
+
+I am striving to use commercially acceptable means of protecting your Personal
+Information. But remember that no method of transmission over the internet, or method of 
+electronic storage is 100% secure and reliable, and I cannot guarantee its absolute
+security.
+
+
+5. Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you 
+will be directed to that site. Note that these external sites are not operated by me.
+Therefore, I strongly advise you to review the Privacy Policy of these websites. I have 
+no control over and assume no responsibility for the content, privacy policies, or 
+practices of any third-party sites or services.
+
+
+6. Children’s Privacy
+
+These Services do not address anyone under the age of 16. I do not knowingly collect 
+personally identifiable information from children under 16. In the case I discover that 
+a child under 16 has provided me with personal information, I immediately delete those 
+informations. If you are a parent or guardian and you are aware that your child has
+provided personal information, please contact me so that I will be able to do necessary
+actions.
+
+
+7. Distribution
+
+The only official channel for distribution of this app are:
+* Google Play Store                https://play.google.com/
+
+
+Any other mode of distribution is not official and thus, is not maintained by the developer.
+This privacy policy is effective to distribution made on official channel only.
+
+
+8. Changes to This Privacy Policy
+
+This policy may be updated from time to time.
+
+
+Contact me
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to
+contact me.
+
+justatools(at)gmail(dot)com
